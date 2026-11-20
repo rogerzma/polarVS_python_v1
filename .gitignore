@@ -1,0 +1,31 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+
+# Caché y compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+
+# Variables de entorno y secretos
+.env
+.env.*
+
+# Configuración de editores / IDE
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
